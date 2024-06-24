@@ -6,7 +6,7 @@ Contributors are free to add any modifications they so wish. Please ensure to re
 
 ## Links
 
-Discord: discord.com/invite/tr9n6suYjx
+[Discord](https://discord.com/invite/tr9n6suYjx)
 
 ## Contributing
 
